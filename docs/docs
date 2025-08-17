@@ -1,0 +1,10 @@
+docs/                  → Documentation, roadmap, lab setup guides
+deception_honeypots/   → Honeypots & deception tools
+offensive_tools/       → Red team offensive security tools
+defensive_tools/       → Blue team defensive security tools
+malware_research/      → Malware, reverse engineering, rootkits
+crypto_privacy/        → Cryptography & privacy tools
+smart_contracts_blockchain/ → Blockchain & IoT audits
+forensics_threatintel/ → Digital forensics & threat intelligence
+ai_security/           → AI-driven detection & prediction tools
+secure_apps/           → Secure web apps, browser extensions
